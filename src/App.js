@@ -17,7 +17,7 @@ class App extends React.Component {
   updateState(){
     this.setState(
       {
-        data: 'God Bless You'
+        data: 'jesus loves you'
 
       }
     )
