@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/readersrealm/static/css/main.f06803a4.chunk.css",
-    "main.js": "/readersrealm/static/js/main.b540d78f.chunk.js",
-    "main.js.map": "/readersrealm/static/js/main.b540d78f.chunk.js.map",
+    "main.js": "/readersrealm/static/js/main.7c65be5b.chunk.js",
+    "main.js.map": "/readersrealm/static/js/main.7c65be5b.chunk.js.map",
     "runtime-main.js": "/readersrealm/static/js/runtime-main.d91c3758.js",
     "runtime-main.js.map": "/readersrealm/static/js/runtime-main.d91c3758.js.map",
     "static/js/2.385d0172.chunk.js": "/readersrealm/static/js/2.385d0172.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d91c3758.js",
     "static/js/2.385d0172.chunk.js",
     "static/css/main.f06803a4.chunk.css",
-    "static/js/main.b540d78f.chunk.js"
+    "static/js/main.7c65be5b.chunk.js"
   ]
 }
