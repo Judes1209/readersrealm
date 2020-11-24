@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/readersrealm/static/css/main.f06803a4.chunk.css",
-    "main.js": "/readersrealm/static/js/main.052b0d9e.chunk.js",
-    "main.js.map": "/readersrealm/static/js/main.052b0d9e.chunk.js.map",
+    "main.css": "/readersrealm/static/css/main.b9b77068.chunk.css",
+    "main.js": "/readersrealm/static/js/main.74c7cdb4.chunk.js",
+    "main.js.map": "/readersrealm/static/js/main.74c7cdb4.chunk.js.map",
     "runtime-main.js": "/readersrealm/static/js/runtime-main.c1fee460.js",
     "runtime-main.js.map": "/readersrealm/static/js/runtime-main.c1fee460.js.map",
     "static/js/2.79500e05.chunk.js": "/readersrealm/static/js/2.79500e05.chunk.js",
@@ -10,14 +10,15 @@
     "static/js/3.e9b7712e.chunk.js": "/readersrealm/static/js/3.e9b7712e.chunk.js",
     "static/js/3.e9b7712e.chunk.js.map": "/readersrealm/static/js/3.e9b7712e.chunk.js.map",
     "index.html": "/readersrealm/index.html",
-    "static/css/main.f06803a4.chunk.css.map": "/readersrealm/static/css/main.f06803a4.chunk.css.map",
+    "static/css/main.b9b77068.chunk.css.map": "/readersrealm/static/css/main.b9b77068.chunk.css.map",
     "static/js/2.79500e05.chunk.js.LICENSE.txt": "/readersrealm/static/js/2.79500e05.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/readersrealm/static/media/logo.103b5fa1.svg"
+    "static/media/logo.103b5fa1.svg": "/readersrealm/static/media/logo.103b5fa1.svg",
+    "static/media/App.css": "/readersrealm/static/media/luis-quintero-Yrp5_WqhI6U-unsplash.0026eea7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c1fee460.js",
     "static/js/2.79500e05.chunk.js",
-    "static/css/main.f06803a4.chunk.css",
-    "static/js/main.052b0d9e.chunk.js"
+    "static/css/main.b9b77068.chunk.css",
+    "static/js/main.74c7cdb4.chunk.js"
   ]
 }
