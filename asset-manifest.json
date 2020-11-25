@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/readersrealm/static/css/main.b9b77068.chunk.css",
-    "main.js": "/readersrealm/static/js/main.74c7cdb4.chunk.js",
-    "main.js.map": "/readersrealm/static/js/main.74c7cdb4.chunk.js.map",
-    "runtime-main.js": "/readersrealm/static/js/runtime-main.c1fee460.js",
-    "runtime-main.js.map": "/readersrealm/static/js/runtime-main.c1fee460.js.map",
-    "static/js/2.79500e05.chunk.js": "/readersrealm/static/js/2.79500e05.chunk.js",
-    "static/js/2.79500e05.chunk.js.map": "/readersrealm/static/js/2.79500e05.chunk.js.map",
-    "static/js/3.e9b7712e.chunk.js": "/readersrealm/static/js/3.e9b7712e.chunk.js",
-    "static/js/3.e9b7712e.chunk.js.map": "/readersrealm/static/js/3.e9b7712e.chunk.js.map",
+    "main.css": "/readersrealm/static/css/main.d71c552e.chunk.css",
+    "main.js": "/readersrealm/static/js/main.b057fa04.chunk.js",
+    "main.js.map": "/readersrealm/static/js/main.b057fa04.chunk.js.map",
+    "runtime-main.js": "/readersrealm/static/js/runtime-main.2247ffb0.js",
+    "runtime-main.js.map": "/readersrealm/static/js/runtime-main.2247ffb0.js.map",
+    "static/js/2.3cc180af.chunk.js": "/readersrealm/static/js/2.3cc180af.chunk.js",
+    "static/js/2.3cc180af.chunk.js.map": "/readersrealm/static/js/2.3cc180af.chunk.js.map",
+    "static/js/3.5744b10f.chunk.js": "/readersrealm/static/js/3.5744b10f.chunk.js",
+    "static/js/3.5744b10f.chunk.js.map": "/readersrealm/static/js/3.5744b10f.chunk.js.map",
     "index.html": "/readersrealm/index.html",
-    "static/css/main.b9b77068.chunk.css.map": "/readersrealm/static/css/main.b9b77068.chunk.css.map",
-    "static/js/2.79500e05.chunk.js.LICENSE.txt": "/readersrealm/static/js/2.79500e05.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/readersrealm/static/media/logo.103b5fa1.svg",
-    "static/media/App.css": "/readersrealm/static/media/luis-quintero-Yrp5_WqhI6U-unsplash.0026eea7.jpg"
+    "static/css/main.d71c552e.chunk.css.map": "/readersrealm/static/css/main.d71c552e.chunk.css.map",
+    "static/js/2.3cc180af.chunk.js.LICENSE.txt": "/readersrealm/static/js/2.3cc180af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1fee460.js",
-    "static/js/2.79500e05.chunk.js",
-    "static/css/main.b9b77068.chunk.css",
-    "static/js/main.74c7cdb4.chunk.js"
+    "static/js/runtime-main.2247ffb0.js",
+    "static/js/2.3cc180af.chunk.js",
+    "static/css/main.d71c552e.chunk.css",
+    "static/js/main.b057fa04.chunk.js"
   ]
 }
